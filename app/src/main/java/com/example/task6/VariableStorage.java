@@ -8,5 +8,4 @@ public class VariableStorage {
 
     public static final String KEYS_IN_HAWK = "keysInHawk";
     public static final String TIMESTAMP = "TimeStamp";
-    public static final String TAG = "test4";
 }

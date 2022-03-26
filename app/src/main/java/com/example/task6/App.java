@@ -32,7 +32,6 @@ public class App extends Application {
 
     @Override
     public void onTerminate() {
-        Log.i("test4", "onTerminate: ");
         super.onTerminate();
     }
 }
